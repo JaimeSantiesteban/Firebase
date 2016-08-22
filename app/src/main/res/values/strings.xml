@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="write_a_message_to_firebase">Write a message to Firebase:</string>
+    <string name="write_a_ref">write a Ref</string>
+    <string name="log_in">Log In</string>
+    <string name="writetofirebase">WriteToFirebase</string>
+    <string name="log_out">Log Out</string>
+    <string name="hello_world">Hello World!</string>
+</resources>

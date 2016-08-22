@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "132341305899",
+    "firebase_url": "https://elkdata1.firebaseio.com",
+    "project_id": "elkdata1",
+    "storage_bucket": "elkdata1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132341305899:android:4cd0f3b6b4be3f75",
+        "android_client_info": {
+          "package_name": "com.mac.training.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132341305899-58c0jc1uch3uu6ppreev7thmhpl7bkr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVTEY-Zwnv0srJdt5fjradFrfiUNMawCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
